@@ -53,6 +53,11 @@ High Job Satisfaction     	1,244 (84.6%)
 
 - Retention vs Satisfaction Gap: Although 84.6% of employees report high job satisfaction, the organization experienced 237 total attrition cases, suggesting that satisfaction metrics alone do not fully capture retention risks.
 
+<img width="748" height="376" alt="hr insight 1" src="https://github.com/user-attachments/assets/cbadf27a-f7c5-4243-9e1a-dda9a686c44d" />
+<img width="751" height="377" alt="hr insight 2" src="https://github.com/user-attachments/assets/cb7a5ee0-a097-4fbd-8841-3bbc621c6934" />
+<img width="739" height="374" alt="hr insight 3" src="https://github.com/user-attachments/assets/598aed35-6921-44b5-a0ca-f05d445c6d55" />
+
+
 RECOMMENDATIONS
 - Strengthen Retention in R&D and Sales: Implement targeted retention programs, competitive compensation reviews, and career progression paths for high-performing employees in these critical departments.
 - Address Gender Equity: Review lay-off criteria and decision processes to eliminate potential bias. Launch initiatives to improve female representation, especially in Sales and leadership roles.
