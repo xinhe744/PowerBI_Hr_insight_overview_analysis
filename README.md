@@ -1,6 +1,7 @@
 # Hr_insight_overview_analysis
 
 CONTEXT
+
 Organizations generate vast amounts of employee data, but without proper analysis and visualization, it remains difficult to identify workforce trends, risks, and opportunities. This project focuses on analyzing a comprehensive HR dataset to uncover critical insights around employee retention, diversity, promotions, and departmental performance. Using Excel and Power BI, the raw dataset was cleaned and transformed into an interactive **HR Workforce Analytics Dashboard that enables data-driven decision-making for talent management and organizational strategy.
 
  DATASET INFORMATION
