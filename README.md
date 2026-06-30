@@ -33,21 +33,8 @@ PROJECT WORKFLOW
 - Conducted in-depth analysis and derived strategic recommendations
 
 KEY PERFORMANCE INDICATORS (KPIs)       KPI	VALUE    
-
-Total Employees           	             1,470         
-Male                                   882 (60%)
-Female              	                  588 (40%)
-Lay-offs                               117 (8.0%)
-Retain	                                1,353 (92.0%)
-Attrition                             237 (16.1%)
-Active Staffs               	         1,233 (83.9%)
-Employees Due for Promotion	          72 (4.9%)   
-High Job Satisfaction                	1,244 (84.6%)
-
 <img width="313" height="196" alt="Screenshot 2026-06-30 121222" src="https://github.com/user-attachments/assets/18d446c5-6349-4fc9-a478-e148940e6f71" />
 
-
-<img width="758" height="191" alt="Screenshot 2026-06-30 121415" src="https://github.com/user-attachments/assets/a838e6e5-d4e1-4b71-a2da-92f60fd7d46e" />
 
 
  KEY INSIGHTS
