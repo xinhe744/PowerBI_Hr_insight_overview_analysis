@@ -47,6 +47,8 @@ High Job Satisfaction                	1,244 (84.6%)
 <img width="313" height="196" alt="Screenshot 2026-06-30 121222" src="https://github.com/user-attachments/assets/18d446c5-6349-4fc9-a478-e148940e6f71" />
 
 
+<img width="758" height="191" alt="Screenshot 2026-06-30 121415" src="https://github.com/user-attachments/assets/a838e6e5-d4e1-4b71-a2da-92f60fd7d46e" />
+
 
  KEY INSIGHTS
 - High Talent Risk in Core Departments: Research & Development (961 employees) and Sales (446 employees) accounted for the majority of lay-offs (74 and 36 respectively), indicating significant restructuring pressure in the organization’s most critical functions.
