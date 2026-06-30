@@ -32,14 +32,21 @@ PROJECT WORKFLOW
 - Optimized layout for clarity and professional presentation
 - Conducted in-depth analysis and derived strategic recommendations
 
-KEY PERFORMANCE INDICATORS (KPIs)
-KPI	VALUE
-Total Employees           	1,470         
-Male / Female              	882 (60%) / 588 (40%)
-Lay-offs/Retain	117 (8.0%)/ 1,353 (92.0%)
-Attrition/ Active Staffs               	237 (16.1%) / 1,233 (83.9%)
-Employees Due for Promotion	72 (4.9%)   
-High Job Satisfaction     	1,244 (84.6%)
+KEY PERFORMANCE INDICATORS (KPIs)       KPI	VALUE    
+
+Total Employees           	             1,470         
+Male                                   882 (60%)
+Female              	                  588 (40%)
+Lay-offs                               117 (8.0%)
+Retain	                                1,353 (92.0%)
+Attrition                             237 (16.1%)
+Active Staffs               	         1,233 (83.9%)
+Employees Due for Promotion	          72 (4.9%)   
+High Job Satisfaction                	1,244 (84.6%)
+
+<img width="313" height="196" alt="Screenshot 2026-06-30 121222" src="https://github.com/user-attachments/assets/18d446c5-6349-4fc9-a478-e148940e6f71" />
+
+
 
  KEY INSIGHTS
 - High Talent Risk in Core Departments: Research & Development (961 employees) and Sales (446 employees) accounted for the majority of lay-offs (74 and 36 respectively), indicating significant restructuring pressure in the organization’s most critical functions.
